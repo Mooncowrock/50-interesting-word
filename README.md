@@ -124,3 +124,4 @@ This list has been a joy to make. I hope you have enjoyed the words as you were 
 <br>
 <br>
 <h3><strong>Resources</strong></h3>
+<p>Words found with</p><a href="https://appzaza.com/random-conjunction-generator" </a>
