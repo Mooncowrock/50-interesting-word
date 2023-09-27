@@ -4,6 +4,9 @@
 Words consist of letters, vowels and consonants, and sometimes even punctuation. However, some combinations of those are better than others. This is my list on which words are better than others. These may not be the best words out of the dictionary, but it will be good competitors in being fascinating.
 <br>
 <br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLfsX3JCWLS4k2rEzQp-1Ek1YwG8P5nDOPig&usqp=CAU" >
+<br>
+<br>
 The categories of words will be broken down into 5 sections
 <ol> 
   <li> Nouns</li>
@@ -75,7 +78,7 @@ Adjectives are what give flavor to nouns. They help prop up the <strong>Big</str
 These words that I've chosen have a bit more pizazz than the typical, everday words that we usually use in verbal communcation. However, the energy they carry will surely leave an impression on you and the other readers (or at least I hope they do).
 <br>
 <br>
-##Adverbs
+<h2>Adverbs</h2>
 Known for their trademark "ly", the adverbs are in a league of their own. They do their job without fail, and though they aren't used oftenly, they always come in announcing their presence and really pack a punch into sentence. They team up with the powerful verbs and give them that explosive kick.
 <br>
 <br>
@@ -87,7 +90,37 @@ Known for their trademark "ly", the adverbs are in a league of their own. They d
   <li>basically</li>
   <li>jovially</li>
   <li>never</li>
-  <li>valiantly</li>
+  <li>perfectly</li>
   <li>seldom</li>
-  <li>yesterday</li>
+  <li>knavishly</li>
 </ul>
+The wonderful adverbs are really graceful and hold such high standard of elgance. They can really add class to any sentence or idea. So the next time you see an adverb, try to appreciate that wonderful picture that has been painted.
+<br>
+<br>
+<h2>Conjunctions</h2>
+And finally, we'll end off with a crowd favorite (or at least my own). Conjunctions are the things that hold these sentences and larger ideas together. They do so much heavy lifting and do a lot of work, but still hold that bit of beauty that a lot of other words don't have. So, without further ado, let's get started.
+<br>
+<br>
+<ul>
+  <li>cause
+  <li>whereas</li>
+  <li>less</li>
+  <li>whether</li>
+  <li>until</li>
+  <li>yet</li>
+  <li>whenas</li>
+  <li>without</li>
+  <li>forasmuch</li>
+  <li>syne</li>
+</ul>
+These words are some of the most magestical and beautiful words. Thoug a lot of these are not oftenly used, these words are without a doubt something to be cherished. Conjunctions are truly just something more, and will still remain as a piece of art.
+<br>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDCnag17I8GHBEo-yzRvcge4-UWTUJwpiWqwq45duvXrNpDfMFla5UhBRAr-eMuPsxbo&usqp=CAU">
+<br>
+<br>
+This list has been a joy to make. I hope you have enjoyed the words as you were scrolling and that there wasn't a time where you didn't go long without thing something like <em>magnifiecent</em> or <em>fantastical</em>. I'm intereseted in your thoughts and if you would enjoy another list as this was such an enjoyable project!
+<br>
+<br>
+<br>
+<h3><strong>Resources</strong></h3>
