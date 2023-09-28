@@ -1,5 +1,4 @@
-# 50 Interesting Words
-<br>
+<h1>50 Interesting Words</h1>
 <br>
 Words consist of letters, vowels and consonants, and sometimes even punctuation. However, some combinations of those are better than others. This is my list on which words are better than others. These may not be the best words out of the dictionary, but it will be good competitors in being fascinating.
 <br>
