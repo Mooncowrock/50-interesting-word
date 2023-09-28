@@ -124,4 +124,12 @@ This list has been a joy to make. I hope you have enjoyed the words as you were 
 <br>
 <br>
 <h3><strong>Resources</strong></h3>
-<p>Words found with</p><a href="https://appzaza.com/random-conjunction-generator" </a>
+<p>Words found with</p>
+<br>
+<ul> 
+  <li><a href="https://randomwordgenerator.com/noun.php" target="_blank">Nouns</a></li>
+  <li><a href="https://randomwordgenerator.com/verb.php" target="_blank">Verbs</a></li>
+  <li><a href="https://randomwordgenerator.com/adjective.php" target="_blank">Adjectives</a></li>
+  <li><a href="https://www.randomlists.com/random-adverbs" target="_blank">Adverbs</a></li>
+  <li><a href="https://appzaza.com/random-conjunction-generator" target="_blank">Conjunctions</a></li>
+</ul>
