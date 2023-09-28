@@ -18,9 +18,8 @@ The categories of words will be broken down into 5 sections
 Without further ado, let's get started with the words
 <br>
 <br>
- 
+ <div id="Nouns">
 <h2> Nouns</h2>
-<div id="Nouns">
 We'll start with the classic and reliable nouns. Nothing flashy or grand, these words pack a punch through purely what they are.
 No wonder they are very much the subject of our words.
 <br>
@@ -41,8 +40,8 @@ No wonder they are very much the subject of our words.
 These are some powerful words and remarkable nouns that can stand for a person, place, or thing. They have so much detail and meaning to them, they leave a remarkable presence in the room.
 <br>
 <br>
+<div id="Verbs">
 <h2>Verbs</h2>
-  <div id="Verbs">
 Verbs are the words that bring life to the sentences. They give words drive and action and really make them work. These words are what bring color to sentences and are the show-stealers.
 <br>
 <br>
@@ -62,6 +61,7 @@ Verbs are the words that bring life to the sentences. They give words drive and 
 I hope we can <em>appreciate</em> the wonderful utility of not only these verbs, but all of the verbs. Howver, I think these verbs are phenominal and are just the kind of words that can really bring a stronger tone to any sentence.
 <br>
 <br>
+<div id="Adjectives">
 <h2>Adjectives</h2>
 Adjectives are what give flavor to nouns. They help prop up the <strong>Big</strong> Ideas and help express just that much more. Personally, I think adjectives are something powerful and can always help you give that extra detail to help seal the deal on your fluency in your ideas.
 <br>
@@ -81,6 +81,7 @@ Adjectives are what give flavor to nouns. They help prop up the <strong>Big</str
 These words that I've chosen have a bit more pizazz than the typical, everday words that we usually use in verbal communcation. However, the energy they carry will surely leave an impression on you and the other readers (or at least I hope they do).
 <br>
 <br>
+  <div id="Adverbs">
 <h2>Adverbs</h2>
 Known for their trademark "ly", the adverbs are in a league of their own. They do their job without fail, and though they aren't used oftenly, they always come in announcing their presence and really pack a punch into sentence. They team up with the powerful verbs and give them that explosive kick.
 <br>
@@ -100,6 +101,7 @@ Known for their trademark "ly", the adverbs are in a league of their own. They d
 The wonderful adverbs are really graceful and hold such high standard of elgance. They can really add class to any sentence or idea. So the next time you see an adverb, try to appreciate that wonderful picture that has been painted.
 <br>
 <br>
+<div id="Conjuctions">
 <h2>Conjunctions</h2>
 And finally, we'll end off with a crowd favorite (or at least my own). Conjunctions are the things that hold these sentences and larger ideas together. They do so much heavy lifting and do a lot of work, but still hold that bit of beauty that a lot of other words don't have. So, without further ado, let's get started.
 <br>
