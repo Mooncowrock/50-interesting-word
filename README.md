@@ -121,11 +121,10 @@ And finally, we'll end off with a crowd favorite (or at least my own). Conjuncti
 These words are some of the most magestical and beautiful words. Thoug a lot of these are not oftenly used, these words are without a doubt something to be cherished. Conjunctions are truly just something more, and will still remain as a piece of art.
 <br>
 <br>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDCnag17I8GHBEo-yzRvcge4-UWTUJwpiWqwq45duvXrNpDfMFla5UhBRAr-eMuPsxbo&usqp=CAU">
-<br>
-<br>
 This list has been a joy to make. I hope you have enjoyed the words as you were scrolling and that there wasn't a time where you didn't go long without thing something like <em>magnifiecent</em> or <em>fantastical</em>. I'm intereseted in your thoughts and if you would enjoy another list as this was such an enjoyable project!
 <br>
+<br>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQmDCnag17I8GHBEo-yzRvcge4-UWTUJwpiWqwq45duvXrNpDfMFla5UhBRAr-eMuPsxbo&usqp=CAU">
 <br>
 <br>
 <h3><strong>Resources</strong></h3>
