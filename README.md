@@ -9,16 +9,18 @@ Words consist of letters, vowels and consonants, and sometimes even punctuation.
 <br>
 The categories of words will be broken down into 5 sections
 <ol> 
-  <li> Nouns</li>
-  <li>Verbs</li>
-  <li>Adjectives</li>
-  <li>Adverbs</li>
-  <li>Conjuctions</li>
+  <li><a href="#Nouns">Nouns</a></li>
+  <li><a href="#Verbs">Verbs</a></li>
+  <li><a href="#Adjectives">Adjectives</a></li>
+  <li><a href="#Adverbs">Adverbs</a></li>
+  <li><a href="#Conjuctions">Conjunctions</a></li>
 </ol>
 Without further ado, let's get started with the words
 <br>
 <br>
+ 
 <h2> Nouns</h2>
+<div id="Nouns">
 We'll start with the classic and reliable nouns. Nothing flashy or grand, these words pack a punch through purely what they are.
 No wonder they are very much the subject of our words.
 <br>
@@ -40,6 +42,7 @@ These are some powerful words and remarkable nouns that can stand for a person, 
 <br>
 <br>
 <h2>Verbs</h2>
+  <div id="Verbs">
 Verbs are the words that bring life to the sentences. They give words drive and action and really make them work. These words are what bring color to sentences and are the show-stealers.
 <br>
 <br>
